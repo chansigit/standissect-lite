@@ -1,3 +1,5 @@
+> **Moved.** Since 2026-10-06 this package lives in [eca-rsi](https://github.com/chansigit/eca-rsi) as `standissect_lite/` (its history included; decision 0018). This repository is read-only.
+
 # standissect-lite
 
 > **Find each cluster's minor siblings — the small stray fragments carrying its
